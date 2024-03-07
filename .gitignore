@@ -1,0 +1,6 @@
+# Ignore the environment folder
+.venv/
+
+# But keep these specific files
+!environment.yml
+!requirements.txt
