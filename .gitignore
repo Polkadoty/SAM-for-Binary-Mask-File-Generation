@@ -1,5 +1,9 @@
 # Ignore the environment folder
-.venv/
+/venv
+/efficientvit
+/models
+/input
+/output
 
 # But keep these specific files
 !environment.yml
